@@ -1,12 +1,15 @@
-<div>
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1E8CBE&height=160&section=header&text=Awessom&fontSize=40&fontColor=white" />
 
-<h1>😄Han Somi</h1>
+<div>
+ 
+# 😄Han Somi
 
 <br>
 <br>
-<h2>🛠️ Skill Stacks</h2>
+ 
+## 🛠️ Skill Stacks
+ 
 📚Plamforms& Languages
 <div>
  <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat&logo=Java&logoColor=black"/>
@@ -26,7 +29,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> 
 </div>
 
-<h2>Contact</h2>
+## ✉️Contact
 <div>
 <a href="mailto:hello950426@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:hello52466@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
