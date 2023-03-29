@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=TypeScript&logoColor=black"/>
 
 <!--
 **awessomi/awessomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
