@@ -31,8 +31,17 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> 
 </div>
 <br>
+
+##  🌏Experience
+<div>
+ITSCHOOL ****(2022.10.17 ~ 2023.03.22) - 자바(JAVA)기반 웹&앱개발자 양성<br>
+영국 워킹홀리데이 (2019.07-2021.09)<br>
+University of Málaga 교환학생(2016.02-2016.08)<br>
+전남대학교 국제학부 영어학전공 사학과부전공 (2014.03 ~ 2022.02)<br>
+</div>
 <br>
- 
+<br>
+
 ## ✉️Contact
 <div>
 <a href="mailto:hello950426@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
