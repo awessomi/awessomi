@@ -4,7 +4,7 @@
 <div>
  
 # 😄Han Somi
-인생을 Awesome하게! Make myself proud
+인생을 Awesome하게! Make myself proud<br>
 변화에 적응하며 성취감으로 인생을 가득 채우고싶은 프로그래머가 되자
 <br>
 <br>
